@@ -1,0 +1,40 @@
+.reservation-container {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .reservation-heading {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .details-section {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .detail-label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .detail-value {
+    color: #666;
+  }
+  
+  .restaurant-info,
+  .user-info {
+    margin-top: 20px;
+  }
+  
+  .info-heading {
+    color: #555;
+  }
+  
+  .table-number {
+    font-size: 24px;
+    color: #f10303; /* Blue color */
+  }
+  
